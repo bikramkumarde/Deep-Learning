@@ -1,1 +1,6 @@
 # Deep-Learning
+1. The Neural_Utils.py is a python files conatining necessary functions which needs to be kept in the same folder as the jupyter notebooks.
+2. The data_breast_cancer.csv contains the data in csv format. It needs to be in the same folder as the jupyter notebook.
+3. The feed forward Neural Network is a jupyter notebook where the network is built from scratch.
+4. The Feed forward Keras is a jupyter notebok which uses keras model for neural network.
+5. The attached project report is a pdf file containing the final report.
